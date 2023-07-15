@@ -12,3 +12,7 @@ int add(int a,intb)
 {
   return a+b;
 }
+int sub(int a,int b)
+{
+  return a-b;
+}
